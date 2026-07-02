@@ -1,3 +1,19 @@
+# 💫 About Me:
+
+Hi there 👋
+
+Nice meeting you, I'm Piyush!
+
+🌱 I'm currently learning Web Development  
+😄 Pronouns: He/Him  
+⚡ Fun fact: If I'm not coding, I'm probably watching YouTube.
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush720)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Piyush_720x)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush720shah@gmail.com)
+
 # 📊 GitHub Stats:
 
 <picture>
@@ -31,3 +47,5 @@
     alt="GitHub Streak"
   />
 </picture>
+
+---

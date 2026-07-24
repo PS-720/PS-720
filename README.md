@@ -4,15 +4,21 @@ Hi there 👋
 
 Nice meeting you, I'm Piyush!
 
-🌱 I'm currently learning Web Development  
-😄 Pronouns: He/Him  
-⚡ Fun fact: If I'm not coding, I'm probably watching YouTube.
+I am a passionate **BCA student**, driven by a deep fascination for technology and a constant desire to innovate. My journey in computer applications is centered around **Web Development** and **Data Structures & Algorithms**, where I enjoy building modern web applications, solving challenging coding problems, and continuously expanding my technical expertise. I aspire to create impactful software solutions while learning emerging technologies and contributing to the developer community.
 
-## 🌐 Socials:
+# 💻 Tech Stack:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush720)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Piyush_720x)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush720shah@gmail.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,git,github,mongodb" />
+</p>
+
+# 🌱 Currently Exploring
+
+- Exploring **Full Stack Web Development**.
+- Building scalable backend applications using **Node.js** and **Express.js**.
+- Learning **Next.js** for modern React applications.
+- Strengthening problem-solving skills through **Data Structures & Algorithms**.
+- Exploring **MongoDB** and database design for efficient data management.
 
 # 📊 GitHub Stats:
 
@@ -48,4 +54,9 @@ Nice meeting you, I'm Piyush!
   />
 </picture>
 
----
+# 📬 Get in Touch
+
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" alt="LinkedIn"/> Connect with me on **[LinkedIn](https://linkedin.com/in/piyush720)**
+- <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" alt="Gmail"/> Connect with me on **[Gmail](mailto:piyush720shah@gmail.com)**
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀

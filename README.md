@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋
-
-Nice meeting you, I'm Piyush!
+Hi, I'm **Piyush Shah** 👋
 
 I am a passionate **BCA student**, driven by a deep fascination for technology and a constant desire to innovate. My journey in computer applications is centered around **Web Development** and **Data Structures & Algorithms**, where I enjoy building modern web applications, solving challenging coding problems, and continuously expanding my technical expertise. I aspire to create impactful software solutions while learning emerging technologies and contributing to the developer community.
 
